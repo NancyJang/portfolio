@@ -4,4 +4,4 @@ This is NancyJang's personal site, including UX portfolio, design projects  and 
 
 Technologies used
 
-HTML/CSS/JavaScript/jQuery/Jade/Sass
+HTML / CSS/ JavaScript/ jQuery/ Jade/ Sass
